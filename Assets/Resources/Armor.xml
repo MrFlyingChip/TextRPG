@@ -1,0 +1,20 @@
+<ArmorList>
+   <Armor>
+    	<ID>1</ID> 
+    	<Name>Обмотки на ноги</Name> 
+    	<Description>Простой кусок ткани, который ни от чего не защитит</Description> 
+    	<ItemLevel>1</ItemLevel> 
+    	<SellCost>1</SellCost> 
+    	<BuyCost>1</BuyCost> 
+    	<ArmorRate>1</ArmorRate> 
+    	<ArmorWeight>Light</ArmorWeight> 
+    	<ArmorType>Legs</ArmorType> 
+    	<Intelligence>0</Intelligence> 
+    	<Power>0</Power> 
+    	<Strength>1</Strength> 
+    	<Agility>0</Agility> 
+    	<DodgeChance>0</DodgeChance> 
+    	<CritChance>0</CritChance> 
+    	<BlockChance>0</BlockChance> 
+   </Armor>
+</ArmorList>

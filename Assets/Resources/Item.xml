@@ -1,0 +1,10 @@
+<ItemList>
+   <Item>
+    	<ID>5</ID> 
+    	<Name>Gold coin</Name> 
+    	<Description>Simple gold coin from the slot machine</Description> 
+    	<ItemLevel>1</ItemLevel> 
+    	<SellCost>1</SellCost> 
+    	<BuyCost>1</BuyCost> 
+   </Item>
+</ItemList>
